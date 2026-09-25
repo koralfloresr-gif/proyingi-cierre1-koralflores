@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "investigacion.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "investigacion"
             }
           }
         ]
@@ -83,7 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 245.875
   },
   "right": {
     "id": "1df8ec180e15c1f3",
@@ -191,7 +191,9 @@
   "active": "9ac26ddbde3d12d8",
   "lastOpenFiles": [
     "ideas-proyecto.md",
+    "idea-elegida.md",
     "investigacion.md",
-    "README.md"
+    "README.md",
+    "Checky.md"
   ]
 }

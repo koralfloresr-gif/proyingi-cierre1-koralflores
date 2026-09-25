@@ -15,6 +15,7 @@ Me llamo Koral Flores Ramírez y nací en Oaxaca de Juárez, Oaxaca, elegí Sist
 
 - [Ideas de proyecto](ideas-proyecto.md) — tres ideas de proyecto para la materia, con su análisis de viabilidad.
 - [Investigación](investigacion.md) — ejemplos que ya existen y fuentes consultadas.
+- [Idea elegida](idea-elegida.md) 
 
 ## Herramientas que estoy usando
 

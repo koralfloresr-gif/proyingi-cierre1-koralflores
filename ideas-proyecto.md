@@ -29,6 +29,8 @@ Una idea es viable para esta materia si cumple los cuatro criterios:
 - Qué hace con eso (actuador, aviso, pantalla): Lector RFID en la repisa de entrada que detecta si los tags/llaveros RFID pegados a tus llaves y credencial están colocados. Si falta alguno cuando estás por salir, suena un aviso o alarma.
 - Qué pieza habría que fabricar: La base de la repisa donde va montado el sensor de peso.
 
+**Fuente:** rohitpulana9090. (s. f.). _Smart doormat with piezoelectric sensors_. Scribd. [https://es.scribd.com/document/689384060/DECA-Project-1]([https://es.scribd.com/document/689384060/DECA-Project-1?utm_source=chatgpt.com](https://es.scribd.com/document/689384060/DECA-Project-1#google_vignette))
+
 ---
 
 ## Idea 2: OnWay
@@ -44,6 +46,8 @@ Una idea es viable para esta materia si cumple los cuatro criterios:
 - Qué hace con eso (actuador, aviso, pantalla):  Mientras caminas lo puedes confirmar o pausar, si el tiempo se pasa y no avisaste que estás bien el dispositivo pregunta si todo está bien y si no respondes o tú misma presionas el botón se activa una alerta que avisa a tu contacto de emergencia sin necesitar batería del celular ni señal de internet.
 - Qué pieza habría que fabricar: El dispositivo como llavero o pulsera.
 
+**Fuente:** National Institute of Justice. (s. f.). _Technology and crime prevention_. U.S. Department of Justice. [https://nij.ojp.gov/]([https://nij.ojp.gov/](https://nij.ojp.gov)
+
 ---
 
 ## Idea 3: Spot-y
@@ -58,6 +62,8 @@ Una idea es viable para esta materia si cumple los cuatro criterios:
 - Qué mide o detecta (sensor): No hay sensor, la app toma como entrada el filtro que tú eliges, tipo de gasto y rango de presupuesto.
 - Qué hace con eso (actuador, aviso, pantalla): Muestra en pantalla los lugares que caen dentro de ese filtro junto con las reseñas de precio y experiencia que dejaron otros usuarios.
 - Qué pieza habría que fabricar: Ninguna.
+
+**Fuente:** Tripadvisor. (s. f.). _Travelers’ Choice_. Tripadvisor. [https://www.tripadvisor.com/TravelersChoice]([https://www.tripadvisor.com/TravelersChoice](https://www.tripadvisor.com/TravelersChoice))
 
 ---
 
