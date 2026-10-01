@@ -11,14 +11,12 @@
             "id": "9ac26ddbde3d12d8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "investigacion.md",
-                "mode": "preview",
-                "source": true
+                "file": "cad/cap parte2.jpeg"
               },
-              "icon": "lucide-file",
-              "title": "investigacion"
+              "icon": "lucide-image",
+              "title": "cap parte2"
             }
           }
         ]
@@ -190,10 +188,18 @@
   },
   "active": "9ac26ddbde3d12d8",
   "lastOpenFiles": [
+    "cad/cap parte1.jpeg",
+    "cad/pieza-s6.md",
+    "cad/cap parte2.jpeg",
+    "cad/Part2 1.catpart",
+    "cad/Part1 1.catpart",
+    "README.md",
+    "investigacion.md",
     "ideas-proyecto.md",
     "idea-elegida.md",
-    "investigacion.md",
-    "README.md",
+    "cad/Part2.CATPart",
+    "cad/Part1.CATPart",
+    "cad",
     "Checky.md"
   ]
 }
