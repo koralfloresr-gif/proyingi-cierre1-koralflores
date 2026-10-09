@@ -2,7 +2,7 @@
 **Espesor real del MDF (vernier):** 2.80 mm
 **Parámetros:**
 - **espesor** = 3 mm
-- **kerf** = 0.2 mm 
+- **kerf** = 0.155 mm 
 - **dedo_ancho** = ancho / 5 = 16 mm
 - **dedo_alto** = alto / 5 = 10 mm
 - **dedo_fondo** = (fondo − 2 · espesor) / 5 = 10.88 mm
